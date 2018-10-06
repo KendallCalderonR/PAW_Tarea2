@@ -22,5 +22,19 @@ namespace PAW.Tarea2.Service.Logic.Validation
 
 			return resultado;
 		}
+
+		public bool ResultadoNoEsCero(double resultado)
+		{
+			bool respuesta;
+			if (resultado != 0)
+			{
+				return respuesta = false;
+			}
+			else
+			{
+				return respuesta = true;
+			}
+
+		}
 	}
 }

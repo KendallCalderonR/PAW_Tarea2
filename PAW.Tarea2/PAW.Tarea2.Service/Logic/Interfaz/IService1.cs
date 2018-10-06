@@ -13,7 +13,10 @@ namespace PAW.Tarea2.Service
 	public interface IService1
 	{
         [OperationContract]
-        double datos(double a,double b, double c);
+        double PrimeraRaiz(double a,double b, double c);
+
+		[OperationContract]
+		double SegundaRaiz(double a, double b, double c);
 
 		[OperationContract]
 		string GetData(int value);
@@ -24,15 +27,7 @@ namespace PAW.Tarea2.Service
 		// TODO: agregue aquí sus operaciones de servicio
 	}
 
-    public class EcuacionCuadratica
-    {
-        [DataMember]
-        public double A { get; set; }
-        [DataMember]
-        public double B { get; set; }
-        [DataMember]
-        public double C  { get; set; }
-    }
+   
 
 
     // Utilice un contrato de datos, como se ilustra en el ejemplo siguiente, para agregar tipos compuestos a las operaciones de servicio.
