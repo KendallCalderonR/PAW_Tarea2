@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Tarea2.Service", "PAW.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Tarea2.CalculadoraTest", "CalculadoraTest\PAW.Tarea2.CalculadoraTest.csproj", "{4A37675E-8B14-4B36-90BA-D53F2BD9D043}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Tarea2.Test", "PAW.Tarea2.Test\PAW.Tarea2.Test.csproj", "{D5321D77-A18A-4C58-A959-80D6A0A1042E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4A37675E-8B14-4B36-90BA-D53F2BD9D043}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A37675E-8B14-4B36-90BA-D53F2BD9D043}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A37675E-8B14-4B36-90BA-D53F2BD9D043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5321D77-A18A-4C58-A959-80D6A0A1042E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5321D77-A18A-4C58-A959-80D6A0A1042E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5321D77-A18A-4C58-A959-80D6A0A1042E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5321D77-A18A-4C58-A959-80D6A0A1042E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
