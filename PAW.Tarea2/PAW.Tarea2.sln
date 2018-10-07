@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Tarea2", "PAW.Tarea2\PA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Tarea2.Service", "PAW.Tarea2.Service\PAW.Tarea2.Service.csproj", "{27813FC8-36B9-41F0-B65C-BA1D48A0FAD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraTest", "CalculadoraTest\CalculadoraTest.csproj", "{4A37675E-8B14-4B36-90BA-D53F2BD9D043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{27813FC8-36B9-41F0-B65C-BA1D48A0FAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27813FC8-36B9-41F0-B65C-BA1D48A0FAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27813FC8-36B9-41F0-B65C-BA1D48A0FAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A37675E-8B14-4B36-90BA-D53F2BD9D043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A37675E-8B14-4B36-90BA-D53F2BD9D043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A37675E-8B14-4B36-90BA-D53F2BD9D043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A37675E-8B14-4B36-90BA-D53F2BD9D043}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
